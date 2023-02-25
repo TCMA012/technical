@@ -1,3 +1,5 @@
+This list is sorted by preference.
+i.e. The first one is the most preferred (desired).
 1. https://books.ninja-squad.com/angular#buy
 Become a Ninja with Angular
 Cédric Exbrayat
