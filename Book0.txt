@@ -20,13 +20,21 @@ https://github.com/ddprrt/
 
 
 
-3. https://leanpub.com/composingsoftware
+3. https://angularforms.dev/#buy-now
+Angular Form Essentials
+Cory Rylan
+Google Developer Expert in Angular and Web Technologies
+https://github.com/coryrylan/beginner-reactive-programming-with-rxjs/tree/master/angular-demo
+
+
+
+4. https://leanpub.com/composingsoftware
 Composing Software : An Exploration of Functional Programming and Object Composition in JavaScript
 Eric Elliott 
 
 
 
-4. https://e5d092.myshopify.com/checkouts/co/bf5be5e3eeb151cfacea2661fbd34131/information
+5. https://e5d092.myshopify.com/checkouts/co/bf5be5e3eeb151cfacea2661fbd34131/information
 Skeptic’s Guide to Functional Programming with JavaScript
 James Sinclair
 
