@@ -1,0 +1,115 @@
+Functional Programming in JavaScript with Categories: master modern functional programming
+dimitris papadimitriou
+2019
+
+https://leanpub.com/advancedtypescript
+codewithstyle.info
+Miłosz Piechocki
+
+Composing Software : An Exploration of Functional Programming and Object Composition in JavaScript
+Eric Elliott 
+book
+
+
+Angular for Material Design
+Leverage Angular Material and TypeScript to Build a Rich User Interface for Web Apps
+Venkata Keerti Kotaru
+https://link.springer.com/book/10.1007/978-1-4842-5434-9
+https://www.amazon.com/Angular-Material-Design-TypeScript-Interface/dp/1484254333
+https://github.com/Apress/angular-for-material-design
+2020
+three-time Microsoft MVP
+The author has a bad habit of "removing code for brevity"
+Book
+had to go online in order to find what was missing.
+7.3.1 too old
+
+
+JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron
+Adam D. Scott 
+Web Development Lead at the Consumer Financial Protection Bureau
+too old
+
+???
+https://github.com/PacktPublishing/Web-Development-with-Angular-and-Bootstrap-Third-Edition
+OLD
+
+Building Micro-Frontends
+Luca Mezzalira
+Google Developer Expert
+author of Front-End Reactive Architectures published by APress. 
+technical reviewer for APress, Packt Publishing, Pragmatic Bookshelf, and O'Reilly.
+strategies
+close to zero coverage of concrete implementation details.
+
+Learn With: Angular 13, Bootstrap, and Java: Enterprise Application Development with Angular 13 and Java
+book
+Jeffry Houser
+simple ?
+
+Architecting CSS: The Programmer’s Guide to Effective Style Sheets
+Michael Dowden, Martine Dowden
+Google Developer Expert
+Microsoft MVP
+Apress
+poor ???
+
+The TypeScript Workshop: A practical guide to confident, effective TypeScript programming
+Ben Grynhaus , Jordan Hudgens, Rayon Hunte, Matt Morgan, Wekoslav Stefanovski
+Microsoft
+DevCamp
+? poor
+
+Learn Enough JavaScript to be Dangerous: A Tutorial Introduction to Programming with JavaScript
+Michael Hartl
+Addison-Wesley Professional
+simple
+https://github.com/mhartl/js_tutorial
+
+JavaScript : Syntax and Practices
+Ravi Tomar, Sarishma Dangi 
+CRC Press
+https://www.routledge.com/JavaScript-Syntax-and-Practices/Tomar-Dangi/p/book/9780367641429
+Book expensive
+Building Micro-Frontends
+Luca Mezzalira
+Google Developer Expert
+author of Front-End Reactive Architectures published by APress. 
+technical reviewer for APress, Packt Publishing, Pragmatic Bookshelf, and O'Reilly.
+strategies
+close to zero coverage of concrete implementation details.
+This is a December 2021 publication. Items published in the last 12 months are not available on Interlibrary Loan. 
+
+A Journey to Angular Development: Learn Angular Fundamentals, TypeScript, Webpack, Routing, Directives, Components, Forms, and Modules with Practical Examples
+Sukesh Marla
+Microsoft MVP
+https://github.com/SukeshMarla/Journey-to-Angular-Development
+"@angular/core": "~11.0.1"
+"rxjs": "~6.6.0",
+Code simple
+
+
+Brutal Refactoring: More Working Effectively with Legacy Code
+Michael Feathers 
+? unavailable
+
+???
+
+2019
+
+Hands-On Functional Programming with TypeScript: Explore functional and reactive programming to create robust and testable TypeScript applications
+Remo H. Jansen
+Microsoft Most Valuable Professional (MVP)
+InversifyJS
+
+Get Programming with Node.js
+Jonathan Wexler 
+New York Code and Design Academy
+Bloomberg LP
+Manning Publications
+
+
+Hi, 
+I am interested in a paperback copy covering Angular 12 or newer.
+What is the Amazon link for a physical print version of the book ng-book: The Complete Guide to Angular?
+book

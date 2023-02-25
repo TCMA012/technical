@@ -1,0 +1,2450 @@
+Addison-Wesley
+Apress
+Manning
+Prentice Hall
+Pragmatic Bookshelf
+https://pragprog.com/
+Oracle
+CRC Press
+book
+
+nostarch.com
+
+Angular Material
+
+MEAN MongoDB Express Angular Node
+Java Spring
+
+https://books.ninja-squad.com/angular
+Cédric Exbrayat
+
+TypeScript Cookbook
+Stefan Baumgartner
+O'Reilly
+https://www.oreilly.com/library/view/typescript-cookbook/9781098136642/
+October 2023
+
+
+JavaScript Crash Course
+Nick Morgan
+No Starch Press
+Twitter
+August 29, 2023
+
+JavaScript Based Library- Lodash: Overview
+Gurpreet Kaur
+
+
+Responsive Web Design with HTML5 and CSS: Build future-proof responsive websites using the latest HTML5 and CSS techniques
+4th Edition
+Ben Frain 
+
+Docs for Devs: An Engineer’s Field Guide to Technical Writing
+Jared Bhatti, Zach Corleissen, Jen Lambourne, David Nuñez, Heidi Waterhouse
+https://docsfordevelopers.com/
+
+
+Learn to Code HTML and CSS
+Shaw Howe
+https://learn.shayhowe.com/html-css/
+
+Systems Performance
+2nd Edition
+Brendan Gregg
+Addison-Wesley
+
+Marco Faella
+The source code for the video-course Functional Programming with Streams in Java 9, published by
+Packt.
+https://bitbucket.org/mfaella/functionaljava/src/master/
+
+The Art of Unit Testing
+Third Edition
+with examples in JavaScript
+Roy Osherove 
+Manning
+
+BDD in Action
+John Ferguson Smart
+Second Edition
+Manning
+
+Spring Boot in Practice 
+Somnath Musib
+Manning
+
+Spring Cloud Data Flow
+Native Cloud Orchestration Services for Microservice Applications on Modern Runtimes
+Gutierrez, Felipe  
+Apress
+
+Unconditional Code
+Michael Feathers
+date ?
+ 
+PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries
+Henrietta Dombrovskaya, Boris Novikov, et al.
+Apress
+
+Practical Test Automation
+Learn to Use Jasmine, RSpec, and Cucumber Effectively for Your TDD and BDD
+Panos Matsinopoulos
+Apress
+book
+
+Small, Sharp Software Tools
+Brian P. Hogan
+
+Implementing Effective Code Reviews: How to Build and Maintain Clean Code
+Giuliana Carullo
+
+Managing Software Requirements the Agile Way
+Fred Heath
+
+Semantic Software Design
+Eben Hewitt
+
+
+Algorithmic Thinking: A Problem-Based Introduction
+Daniel Zingaro
+examples from programming competitions like USACO and IOI.
+Each problem in this book is available on a programming-judge website. You’ll find the site’s URL and problem ID in the description
+Assistant Professor at the University of Toronto Mississauga 
+
+Classic Computer Science Problems in Java
+David Kopec
+
+Mastering MongoDB 4.x: Expert techniques to run high-volume and fault-tolerant database solutions using MongoDB 4.x
+2nd Edition
+Alex Giamas
+MongoDB Certified Developer
+
+Spring Quickly
+Laurentiu Spilca
+	   
+Elements of Programming Interviews
+ 
+ 
+Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud
+John Arundel, Justin Domingus
+
+Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker
+Frank Zammetti 
+Apress
+
+Programming Interviews Exposed: Coding Your Way Through the Interview
+John Mongan, Noah Kindler, Eric Giguère
+
+Spring 5 Recipes: A Problem-Solution Approach
+4th ed. edition
+Marten Deinum, Daniel Rubio, Josh Long  
+
+Get Programming with JavaScript Next: New features of ECMAScript 2015, 2016, and beyond
+J. D. Isaacks 
+
+Spring Microservices in Action
+John Carnell 
+
+Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry
+Josh Long, Kenny Bastani 
+Poor
+
+Data Structures and Algorithms Made Easy in Java: Data Structure and Algorithmic Puzzles
+Narasimha Karumanchi
+
+Getting started with Spring Framework
+Third edition
+J Sharma, Ashish Sarin
+
+RxJS in Action
+Paul Daniels & Luis Atencio 
+JavaScript
+
+Software Design Decoded: 66 Ways Experts Think (MIT Press)
+Marian Petre, André van der Hoek 
+Fortune cookie fortunes for developers?
+
+Java EE Development with Eclipse - 
+Third edition: 
+Develop, debug, test, and troubleshoot Java EE 8 applications rapidly with Eclipse
+Ram Kulkarni
+Simple
+
+J Richard Rodger
+The Tao of Microservices
+JavaScript
+
+Eloquent JavaScript : A Modern Introduction to Programming
+3rd edition
+https://eloquentjavascript.net/
+Marijn Haverbeke
+
+Redis 4.x Cookbook: Over 80 hand-picked recipes for effective Redis development and administration
+Pengcheng Huang, Zuofei Wang
+
+Mastering Java Machine Learning: A Java developer's guide to implementing machine learning and big data architectures
+Dr. Uday Kamath, Krishna Choppella
+deeplearning4j not active?
+
+Design Patterns and Best Practices in Java 9
+Adrian Ianculescu
+
+Web Services Testing with Postman and Rest Assured: With Examples
+BhanuPrasad Reddy D, BhanuPrasad D 
+
+Beginning Apache Spark 2: With Resilient Distributed Datasets, Spark SQL, Structured Streaming and Spark Machine Learning library
+Hien Luu
+
+Pivotal Certified Professional Core Spring 5 Developer Exam: A Study Guide Using Spring Framework 5
+Iuliana Cosmina
+poor
+
+Practical Amazon Elastic Kubernetes Service (AWS EKS)
+Deepak Vohra
+
+Programming JavaScript Applications: Robust Web Architecture with Node, HTML5, and Modern JS Libraries 
+July 2014
+Eric Elliott
+
+Re-engineering Legacy Software
+Chris Birchall
+2016
+
+Complete Guide to Open Source Big Data Stack 
+Michael Frampton 
+
+Building a Better World in your Backyard
+Paul Wheaton and Shawn Klassen-Koop
+
+Java for Aliens - Volume 1
+Java for Aliens - Volume 2: LEARN JAVA FROM SCRATCH AND BECOME A PRO
+Claudio De Sio Cesari
+
+Modern Programming Made Easy: Using Java, Scala, Groovy, and JavaScript
+Adam L. Davis
+
+Solving Identity and Access Management in Modern Applications: Demystifying OAuth 2.0, OpenID Connect, and SAML 2.0
+Yvonne Wilson, Abhishek Hingnikar
+
+Write Great Code, Volume 3
+Engineering Software
+Randall Hyde
+
+Essential Test-Driven Development
+Robert C. Myers
+
+Building Microservices: Designing Fine-Grained Systems
+Sam Newman 
+
+Cloud Native Architectures: Design high-availability and cost-effective applications for the cloud
+Tom Laszewski, Kamal Arora, Erik Farr, Piyum Zonooz 
+
+The Road to GraphQL: Your journey to master pragmatic GraphQL in JavaScript with React.js and Node.js
+Robin Wieruch
+
+Josh Long 
+Reactive Spring (e-book)
+
+Event Streams in Action: Real-time event systems with Kafka and Kinesis
+Alexander Dean & Valentin Crettaz
+
+Understanding the British: A hilarious guide from Apologising to Wimbledon
+Adam Fletcher, Robert M. Schöne 
+book
+
+97 Things Every Programmer Should Know: Collective Wisdom from the Experts
+Kevlin Henney 
+
+API Security in Action
+Neil Madden
+Manning
+Security Director at ForgeRock
+
+Solving Identity Management in Modern Applications: Demystifying OAuth 2.0, OpenID Connect, and SAML 2.0
+Yvonne Wilson, Abhishek Hingnikar 
+Sun, Oracle, Auth0
+
+Manning
+Algorithms and Data Structures in Action
+Enterprise Java Microservices
+Ken Finnigan
+
+Java EE 8 Application Development
+David R. Heffelfinger
+
+Learning Progressive Web Apps
+John M. Wargo
+	
+Cloud Native Patterns
+Cornelia Davis 
+Vice President of Technology at Pivotal Software
+
+Cassandra: The Definitive Guide: Distributed Data at Web Scale
+Jeff Carpenter, Eben Hewitt
+3rd Edition
+CIO of O'Reilly Media
+NoSQL
+
+Microservices: Up and Running
+Ronnie Mitra, Irakli Nadareishvili
+
+Articulating Design Decisions
+Tom Greever
+
+Mastering Microservices with Java: Build enterprise microservices with Spring Boot 2.0, Spring Cloud, and Angular
+Sourabh Sharma
+book
+3rd Edition
+https://github.com/PacktPublishing/Mastering-Microservices-with-Java-Third-Edition
+JDK 11
+Maven
+Spring Cloud and Boot
+Angular
+Oracle
+February 2019
+
+GraphQL for Modern Commerce
+Kelly Goetsch
+preview 
+
+SRE with Java Microservices
+Jonathan Schneider
+
+Building Event-Driven Microservices
+Adam Bellemare
+
+Java Performance
+Scott Oaks
+2nd Edition
+
+97 Things Every Scrum Practitioner Should Know
+Gunther Verheyen
+
+Google BigQuery: The Definitive Guide
+Valliappa Lakshmanan and Jordan Tigani
+
+Angular 12 : with Examples
+John Kocer
+
+Reactive Angular with Redux, NgRx, RxJs and MobX: by Example
+John Kocer 
+
+Angular 11, Express and Node REST API: by Example 2021
+Kindle Edition
+NO github
+John Kocer, Michael Kocer
+ASP.NET 
+
+Beginning Node.js, Express & MongoDB Development
+Greg Lim
+hands-on
+create a blog app and deploy it to the Internet
+
+Advanced Algorithms and Data Structures
+Marcello La Rocca
+
+
+Choose your WoW: A Disciplined Agile Delivery Handbook for Optimizing Your Way of Working
+Scott Ambler, Mark Lines
+
+Introduction to Disciplined Agile Delivery
+Second Edition
+Scott Ambler, Mark Lines
+
+Amazon Web Services in Action
+Andreas Wittig, Michael Wittig
+DevOp
+
+Software Telemetry: Reliable logging and monitoring
+Jamie Riedesel
+Dropbox
+
+Learning Amazon Web Services (AWS): A Hands-On Guide to the Fundamentals of AWS Cloud
+Mark Wilkins
+Addison-Wesley Professional
+certified in Amazon Web Services (Architecture and Sys-Ops)
+
+AWS Certified Developer Associate All-in-One Exam Guide (Exam DVA-C01)
+Kamesh Ganesan
+McGraw-Hill Education
+AWS Certified Developer
+
+AWS Certified Developer Official Study Guide: Associate (DVA-C01) Exam
+Nick Alteen, Jennifer Fisher, Casey Gerena, Wes Gruver, Asim Jalis, Heiwad Osman, Marife Pagan, Santosh Patlolla, and Michael Roth 
+Sybex
+typo
+
+Behavior-Driven Development with Cucumber: Better Collaboration for Better Software
+Richard Lawrence, Paul Rayner
+led the development of the first .NET version of Cucumber, Cuke4Nuke
+Addison-Wesley Professional
+book
+
+
+SAFe 5.0 Distilled; Achieving Business Agility with the Scaled Agile Framework
+Richard Knaster, Dean Leffingwiell
+SAFe Fellow and Principal Consultant at Scaled Agile, Inc
+creator of SAFe
+Addison-Wesley Professional
+
+Advanced API Security: OAuth 2.0 and Beyond
+Prabath Siriwardena 
+2nd ed.
+Apress
+VP of Identity Management and Security at WSO2
+Apache
+
+MongoDB: The Definitive Guide
+Shannon Bradshaw, Eoin Brazil, Kristina Chodorow
+3rd Edition
+MongoDB
+Google
+
+Node.js 8 the Right Way: Practical, Server-Side JavaScript That Scales
+Jim Wilson
+Pragmatic Bookshelf
+Google
+
+Spring Microservices in Action
+Second Edition
+John Carnell, Illary Huaylupo Sánchez
+manning book
+
+Reactive Systems in Java
+Clement Escoffier, Ken Finnigan
+
+https://graphql.guide/
+GraphQL is the new REST
+John Resig
+Loren Sands-Ramshaw
+jQuery
+
+https://exploringjs.com/impatient-js/
+JavaScript for impatient programmers (ES2021 edition)
+Dr. Axel Rauschmayer
+
+https://exploringjs.com/deep-js/
+Deep JavaScript: Theory and techniques
+Dr. Axel Rauschmayer
+
+
+Street Coder: The rules to break and how to break them
+Sedat Kapanoglu 
+Microsoft
+Manning
+Book
+
+Micro Frontends in Action
+Michael Geers
+NodeJS
+Manning
+
+Understanding Software Dynamics
+Richard L Sites
+Addison-Wesley
+
+JavaScript Based Library- Lodash: Overview
+Gurpreet Kaur
+
+Escape Velocity: Better Metrics for Agile Teams
+Doc Norton
+
+
+Practical Debugging at Scale: Cloud Native Debugging in Kubernetes and Production
+Shai Almog
+
+
+
+Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy
+Vlad Khononov 
+
+Cloud Native Spring in Action  
+With Spring Boot and Kubernetes
+Thomas Vitale
+
+JavaScript: The Comprehensive Guide to Learning Professional JavaScript Programming
+Philip Ackermann
+Cedalo GmbH contributes to Eclipse Projects
+Rheinwerk Computing
+Rheinwerk-Computing.com/5554
+Personal https://github.com/cleancoderocker
+
+The Jamstack Book: Beyond static sites with JavaScript, APIs, and markup
+Raymond Camden, Brian Rinaldi
+Jamstack = JavaScript, APIs, Markup (JAM)
+11ty, Next.js, Netlify
+Book
+
+Node.js: Novice to Ninja
+Craig Buckler
+SitePoint
+Node
+Express.js
+MongoDB 
+MySQL
+WebSockets
+build a complete multi-player real-time quiz application
+access to 25 high quality tutorial videos, containing 1.5 hours of content
+craigbuckler.com
+https://github.com/craigbuckler
+? https://github.com/craigbuckler/nodequiz
+
+
+Modernizing Enterprise Java
+Markus Eisele, Natale Vinto
+monolithic application to an up-to-date software stack
+microservices-based
+Java Champion
+OpenShift at Red Hat
+
+More Java 17
+An In-Depth Exploration of the Java Language and Its Features
+Apress
+Kishori Sharan , Peter Späth
+github.com/Apress/more-java-17
+2021
+
+Grokking Functional Programming
+Michal Plachta 
+Manning
+
+Mastering JavaScript Functional Programming
+3E
+https://github.com/PacktPublishing/Mastering-JavaScript-Functional-Programming-3E
+
+The Beginning Angular
+Victor Hugo Garcia 
+https://github.com/Apress/The-Beginning-Angular-by-Victor-Hugo-Garcia
+
+Cruising Along with Java
+Modernize and Modularize with the Latest Features
+Venkat Subramaniam
+February 2023
+Beta
+
+Functional Programming in Java
+Harness the Power of Streams and Lambda Expressions
+Second Edition
+Venkat Subramaniam
+February 2023
+Beta
+
+System Design Interview – An insider's guide
+Alex Xu
+Jun 12, 2020
+
+System Design Interview – An Insider's Guide: Volume 2
+Alex Xu and Sahn Lam
+
+Practical Highcharts with Angular: Your Essential Guide to Creating Real-time Dashboards
+2nd ed. Edition
+Sourabh Mishra 
+Apress
+Web API and Ajax
+March 19, 2023
+https://github.com/Apress/Practical-Highcharts-with-Angular-2nd-edition-By-Sourabh-Mishra
+https://github.com/Apress/practical-highcharts-with-angular
+
+2023
+
+March
+
+
+Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development 
+Prem Ponuthorai, Jon Loeliger
+3rd Edition
+GitHub's offerings for the Expert Services Delivery organization
+contributes to Open Source projects such as Linux, U-Boot, and Git
+
+
+
+Building Offline Applications with Angular: Develop Reliable, Performant Web Applications for Desktop and Mobile Platforms 1st ed. Edition
+Venkata Keerti Kotaru
+IndexedDB as an offline data store within a browser
+An imaginary online gaming arcade
+PWA (Progressive Web App)
+Microsoft MVP
+Apress
+https://github.com/Apress/Building-Offline-Applications-with-Angular
+
+Learning Angular, Fourth Edition
+packtpub.com
+Packt
+Aristeidis Bampakos, Pablo Deelema
+bampakoa
+https://www.packtpub.com/product/learning-angular-fourth-edition/9781803240602
+https://github.com/PacktPublishing/Learning-Angular-Fourth-Edition
+cd /media/tcma/SeagateBackupPlusDrive/angular15/Learning-Angular-Fourth-Edition-main
+
+Angular 15.0.0
+Building Your First Angular application
+Introduction to TypeScript
+Organizing Application into Modules
+Enabling User Experience with Components
+Enrich Applications using Pipes and Directives
+Managing Complex Tasks with Services
+Being Reactive using Observables and RxJS
+Communicating with Data Services over HTTP
+Navigate through Application with Routing
+Collecting User Data with Forms
+Introduction to Angular Material
+Unit Test an Angular Application
+Bringing Application to Production
+Handling Errors and Application Debugging
+
+Feb
+
+Testing Web APIs
+Mark Winteringham
+https://github.com/mwinteringham
+Manning
+Java
+book
+
+Core Java: Advanced Features, Volume 2
+Cay Horstmann
+Oracle Press
+12th Edition
+book
+
+Core Java: Fundamentals, Volume 1
+Cay Horstmann
+Oracle Press
+12th Edition
+book
+
+Jan
+
+Designing APIs with Swagger and OpenAPI
+Joshua S. Ponelat, Lukas L. Rosenstock
+OpenAPI team
+Manning
+ 
+Spring Boot in Practice
+Somnath Musib 
+Oracle Certified Java Professional and Oracle Certified Associate
+Manning
+
+18 January 2023
+Spring Boot and Angular: Hands-on full stack web development with Java, Spring, and Angular
+Devlin Basilan Duldulao, Seiji Ralph Villafranca
+Spring Data JPA and add its dependencies along with Postgres
+Redis
+Microsoft's Most Valuable Professional (MVP)
+Auth0 Ambassador
+MSCD, Azure Associate Developer, AWS Associate Developer, Terraform Associate
+https://www.packtpub.com/product/spring-boot-and-angular/9781803243214
+https://github.com/PacktPublishing/Spring-Boot-and-Angular
+
+2022
+
+Dec
+
+https://e5d092.myshopify.com/checkouts/co/bf5be5e3eeb151cfacea2661fbd34131/information
+Skeptic’s Guide to Functional Programming with JavaScript
+James Sinclair
+https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/
+https://e5d092.myshopify.com/en-ca
+other formats
+
+The Well-Grounded Java Developer
+Benjamin Evans, Jason Clark, Martijn Verburg
+Second Edition 
+Manning
+Java Champion
+
+CSS Master
+Tiffany B Brown
+SitePoint
+3rd Edition
+Opera Software Developer Relations
+https://github.com/spbooks/csspro3
+
+Nov
+
+Code That Fits in Your Head : Heuristics for Software Engineering
+(Robert C. Martin Series)
+Mark Seemann
+Jolt Award-winning book about Dependency Injection
+video courses for both Pluralsight and Clean Coders
+The "restaurant" project he uses as an example comes as a working fully documented git repo
+blog.ploeh.dk
+Addison-Wesley Professional
+book
+
+Clean Craftsmanship: Disciplines, Standards, and Ethics (Robert C. Martin Series)
+Robert C. Martin
+Addison-Wesley
+book
+
+SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights
+Cathy Tanimur
+O'Reilly
+
+Oct
+
+Five Lines of Code: How and when to refactor
+Christian Clausen 
+Coccinelle semantic patching project, an automated refactoring tool
+Manning
+Book
+The book is split into two distinct parts; the first builds a foundation for how to talk about refactoring, why we do it, and lays out a practical set of rules for how to approach it. Unlike many other books that talk in broad terms this section provides example code and shows how to refactor it following the rules. You can follow along in the provided github repo and test your skills on a completely separate example.
+The second part of the book broadens the scope and discusses broader topics relating to refactoring and software quality. My favorite topics related to how to use a compiler, comments in code, and premature optimization. All of these have allowed me to have good discussions with my work colleagues about what “good” code is and how we can improve the quality of the code we support.
+
+Good Code, Bad Code: Think like a software engineer
+Tom Long 
+Google
+Manning
+Book
+
+Software Mistakes and Tradeoffs: How to make good programming decisions 
+Tomasz Lelek, Jon Skeet 
+Google
+Manning
+Book
+
+Sep
+
+Distributed Systems with Node.js: Building Enterprise-Ready Backend Services
+Thomas Hunter II
+conferences on Node.js and JavaScript, JSNSD/JSNAD certified, organizer of NodeSchool SF 
+at least half of the code (and half of the book overall) really applies to any Node apps of any architecture (even a monolith). For example, the chapters on Observability (using Elasticsearch/ELK/etc.), Deployment (using Travis CI, Heroku, etc.) and Security are totally universal to any Node app.
+
+Several other chapters are also not really about Node or distributed apps, per se, but focus on important external technologies in the wider ecosystem, and how Node can integrate with them (ex: Docker, Redis, HAProxy, PostgreSQL, etc...). This gets into both client libs in Node (with numerous code samples), but also a fair amount of general discussion about theory and architecture (what is a reverse proxy/cache server/data store, and how/why would you use it with your Node app? What are containers, and how do you build and run them in Docker CLI? What is Kubernetes, and how do you deploy your containers to it? etc...). All of that is good stuff, and well written, it's just not so much about Node itself.
+
+For me the 2 most valuable chapters were:
+
+Ch. #1) The author does a really good explanation of the Node internal V8 event loop, with minute details about _exactly_when_ the various different asynchronous events and built in functions fire and are handled (ex: setTimeout vs setInterval vs setImmediate, etc.)
+
+Ch. #8) Resilience - This is the best chapter, which goes over a bunch of valuable tips/tricks/best practices that will help your Node apps either withstand runtime failures, or else fail gracefully and predictably. For me, this chapter alone was worth the cover price. It may have nothing new for really senior Node pros, but for mid-level devs it's great (and even you ninjas might learn a thing or two).
+
+
+
+Practical SQL : A Beginner's Guide to Storytelling with Data
+Anthony DeBarros  
+2nd Edition
+No Starch Press
+data news editor for The Wall Street Journal
+
+Data-Oriented Programming : Reduce software complexity
+Yehonathan Sharvit
+Manning
+Book
+maintainer of Klipse - JavaScript plugin for embedding interactive code snippets in tech blogs
+http://blog.klipse.tech
+
+Aug
+
+Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript
+Josh Goldberg
+Microsoft
+typescript-eslint and TypeStat
+Codecademy
+https://github.com/LearningTypeScript/site
+https://www.learningtypescript.com/
+
+Understanding JavaScript Promises
+Nicholas C. Zakas
+https://leanpub.com/understanding-javascript-promises
+https://www.amazon.com/
+Book
+
+Pro Angular: Build Powerful and Dynamic Web Apps
+Adam Freeman
+5th ed.
+Access accompanying online files for Angular 13 and 14 (when it is released)
+https://link.springer.com/book/10.1007/978-1-4842-8176-5
+https://github.com/Apress/pro-angular-5ed
+Book
+angular_pro-angular-5ed
+
+Jul
+
+Modern Asynchronous JavaScript : Tackle Complex Async Tasks with Less Code
+Faraz K. Kelhini
+Pragmatic Answers Series
+Ebook only and short (around 50 pages)
+LogRocket
+
+Modern CSS: Master the Key Concepts of CSS for Modern Web Development
+Joe Attardi 
+Salesforce, Dell, Nortel
+Apress
+Book
+
+Testing JavaScript Applications
+Lucas da Costa
+Chai, Sinon.JS, Jest
+Book
+
+Jun
+
+Understanding JavaScript Promises
+https://leanpub.com/understanding-javascript-promises
+Nicholas C. Zakas
+I asked my local public library to consider buying a copy.
+other formats
+
+TypeScript for Beginners: The Ultimate Guide
+Sufyan bin Uzayrb
+CRC Press
+Book
+
+Functional Programming in JavaScript
+Cristian Salcescu
+https://github.com/cristi-salcescu
+https://github.com/cristi-salcescu/functional-programming-in-javascript
+https://www.amazon.com/dp/B08CZZ4FQQ
+other formats
+
+May
+
+TypeScript for Beginners: The Ultimate Guide
+Sufyan bin Uzayr
+CRC Press
+other formats
+
+Full-Stack Development with Angular and GraphQL: 
+Build scalable mono-repo and modern web applications with cutting-edge technologies including TypeScript and Node.js
+Ahmed Bouchefra
+https://www.packtpub.com/product/full-stack-development-with-angular-and-graphql/9781800202467
+https://github.com/PacktPublishing/Full-Stack-App-Development-with-Angular-and-GraphQL
+developer and maintainer of multiple open source Angular libraries such as ngx-qrcode2
+Angular frontend, Node.js backend, MySQL database
+Ubuntu
+Running JavaScript on the server with Node.js
+Installing packages with npm
+Running a web server with Express.js
+Integrating the frontend and backend with Apollo
+Saving data with TypeORM and MySQL
+create a mono-repo project with 
+Lerna and NPM Workspaces and configure a Node.js app to use GraphQL with 
+Apollo Server.
+SSR (server-side rendering) and get data from a Node.js API that uses GraphQL and 
+Apollo Client to interface with the server. 
+local state management with Apollo Client and GraphQL Code Generator.
+use GraphQL with Express and Apollo Server
+
+https://github.com/PacktPublishing/Reactive-Patterns-with-RxJS-7-in-Angular-Applications
+Reactive Patterns with RxJS for Angular : A practical guide to managing your Angular application's data reactively and efficiently using RxJS 7
+Lamis Chebbi 
+Google Developer Expert for Angular and an Auth0 ambassador
+Angular 12
+primeng 12
+Bootstrap 3.3.7
+
+April
+
+https://github.com/ericelliott
+https://leanpub.com/composingsoftware
+Composing Software : An Exploration of Functional Programming and Object Composition in JavaScript
+Eric Elliott
+2020-05-05
+other formats
+Is a paperback copy available?
+
+You Don't Know JS Yet: Scope & Closures
+Kyle Simpson
+2nd edition of You Don't Know JS
+Open Web
+Book
+Due to limited resources including budget, we are unable to process this request at the present time. We will keep your suggestion on file, and may purchase it at a later date. We value your input in our collection; please continue to watch the New Titles page on the website for recently acquired material.
+
+You Don't Know JS Yet: Get Started
+Kyle Simpson
+2nd edition
+Open Web
+Book
+Due to limited resources including budget, we are unable to process this request at the present time. We will keep your suggestion on file, and may purchase it at a later date. We value your input in our collection; please continue to watch the New Titles page on the website for recently acquired material.
+
+Mar
+
+Multithreaded JavaScript: Concurrency Beyond the Event Loop
+Thomas Hunter II, Bryan English
+conferences on Node.js and JavaScript, JSNSD/JSNAD certified, NodeSchool SF
+Datadog
+Node.js core collaborator
+
+JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages
+Laurence Lars Svekis, Maaike van Putten, Rob Percival 
+Udemy, Pluralsight, LinkedIn Learning
+https://github.com/PacktPublishing/JavaScript-from-Beginner-to-Professional
+
+TypeScript in 50 Lessons
+Stefan Baumgartner
+Smashing Magazine
+Microsoft MVP
+https://fettblog.eu/
+https://github.com/ddprrt/
+book
+
+Feb
+
+JavaScript Cookbook: Programming the Web
+Adam D. Scott, Matthew MacDonald, Shelley Powers
+3rd Edition
+Consumer Financial Protection Bureau
+https://github.com/javascripteverywhere/cookbook
+
+Developing Web Components with TypeScript: Native Web Development Using Thin Libraries
+Jörg Krause
+Apress
+book
+"Not Yet Another Framework" is a new library concept, called "thin library". 
+https://github.com/joergkrause/nyaf
+
+You Don't Know JS Yet: Get Started
+Kyle Simpson
+2nd edition of You Don't Know JS
+Open Web
+other formats
+https://github.com/getify/You-Dont-Know-JS
+
+Jan
+
+https://exploringjs.com/tackling-ts/toc.html
+Tackling TypeScript
+Dr. Axel Rauschmayer
+other formats
+
+Become a Ninja with Angular
+Cédric Exbrayat
+Angular and Vue contributor
+https://books.ninja-squad.com/angular#buy
+Pro Pack (ebook & exercises)
+https://angular.io/about?group=Collaborators
+other formats 
+
+
+
+Accelerating Angular Development with Ivy
+Lars Gyrup Brink Nielsen, Jacob Andresen 
+Co-Founder of an Open Learning non-profit called This is Learning
+Tech Writer at This is Angular
+Microsoft MVP in Developer Technologies
+GitHub Star
+https://www.packtpub.com/product/accelerating-angular-development-with-ivy/9781800205215
+https://github.com/PacktPublishing/Accelerating-Angular-Development-with-Ivy
+"@angular/compiler": "~12.1.0"
+
+2021
+
+Dec
+
+TypeScript 4 Design Patterns and Best Practices: Discover effective techniques and design patterns for every programming task
+Theo Despoudis
+WP Engine
+Dzone 
+https://github.com/PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices
+
+TypeScript in 50 Lessons
+Stefan Baumgartner, Smashing Magazine (Editor)
+Smashing Media AG
+Microsoft MVP
+other formats
+
+The TypeScript Workshop: A practical guide to confident, effective TypeScript programming
+Ben Grynhaus, Jordan Hudgens, Rayon Hunte, Matt Morgan, Wekoslav Stefanovski 
+Microsoft
+npm modules in Angular 
+DevCamp
+
+Nov
+
+Fixing Your Scrum: Practical Solutions to Common Scrum Problems
+Ryan Ripley, Todd Miller
+Pragmatic Bookshelf
+Scrum.org
+
+Practical Cloud-Native Java Development with MicroProfile: Develop and deploy scalable, resilient, and reactive cloud-native applications using MicroProfile 4.1
+Emily Jiang, Andrew McCright, John Alcorn, David Chan, Alasdair Nottingham
+Java Champion
+IBM
+Open Liberty
+
+Programming AWS Lambda: Build and Deploy Serverless Applications with Java
+John Chapin, Mike Roberts
+
+Oct
+
+Learning RxJava: Build concurrent applications using reactive programming with the latest features of RxJava 3
+Nick Samoylov, Thomas Nield
+2nd Edition
+maintainer for RxJavaFX and RxKotlin
+
+GraphQL in Action 
+Samer Buna
+manning
+https://github.com/jscomplete/graphql-in-action
+https://jscomplete.com/learn/graphql-in-action/1gx91-introduction-to-graphql
+Docker Compose (which is part of Docker Desktop)
+
+Help Your Boss Help You: Convert Conflict Into Opportunities
+Ken Kousen
+chapter 2, "Giving Good-Enough Answers", you're immediately given a "quick win" with a truly awesome technique, thoroughly discussed in 10 pages, that I had never thought of and makes perfect sense—when your manager sends you a question out of nowhere, disturbing your train of thought and disrupting the productive flow within which you find yourself, what do you do? It turns out that 
+"good enough answers" (rather than hard won and time consuming perfect answers) are more than good enough. The author arrives at this insight via a thoroughly logical train of thought... and then presents you with 
+a magic question that needs to be inserted at the end of the interaction in this context with your manager. It is an awesome and truly magical question and worth the price of the book itself.
+
+Sep
+
+Spring Boot: Up and Running: Building Cloud Native Java and Kotlin Applications
+Mark Heckler
+VMware, the company behind Spring
+Java Champion
+
+API Design Patterns
+JJ Geewax 
+manning book
+TypeScript
+Google 
+https://google.aip.dev/
+
+Angular Cookbook: Over 80 actionable recipes every Angular developer should know
+Muhammad Ahsan Ayaz
+Google Developer Expert
+
+Aug
+
+ng-book: The Complete Guide to Angular
+ 11 - full package
+Nate Murray, Ari Lerner, Felipe Coury, Carlos Taborda
+Google's Angular working group 
+other formats 
+
+https://angular.io/resources?category=education
+
+Modern API Development with Spring and Spring Boot: Design highly scalable and maintainable APIs with REST, gRPC, GraphQL, and the reactive paradigm 
+Sourabh Sharma
+Oracle
+https://github.com/PacktPublishing/Modern-API-Development-with-Spring-and-Spring-Boot
+1 	Java 15
+2 	Java IDE such as IntelliJ or Eclipse
+3 	Docker
+4 	Kubernetes (Minikube)
+5 	cURL or Postman
+6 	Node.js 14.x with NPM 6.x
+7 	Visual Studio Code
+8 	React 17
+9 	ELK Stack
+10 	Zipkin
+
+TypeScript Quickly
+Yakov Fain, Anton Moiseev
+Manning Publications
+book
+
+Jul
+
+Angular Projects: Build modern web apps by exploring Angular 12 with 10 different projects and cutting-edge technologies
+Aristeidis Bampakos 
+2nd ed
+Google Developer Expert
+Set up Angular applications using Angular CLI and Nx Console
+Create a personal blog with Jamstack and SPA techniques
+Build desktop applications with Angular and Electron
+Enhance user experience (UX) in offline mode with PWA techniques
+Make web pages SEO-friendly with server-side rendering
+Create a monorepo application using Nx tools and NgRx for state management
+Focus on mobile application development using Ionic
+Develop custom schematics by extending Angular CLI
+https://github.com/PacktPublishing/Angular-Projects-Second-Edition
+https://github.com/antogkou/AngularAssignment
+https://restcountries.eu/rest/v2/
+
+The Joy of JavaScript
+Luis Atencio
+Manning Publications
+book
+Citrix Systems
+medium.com/@luijar
+https://github.com/JoyOfJavaScript/joj
+https://livebook.manning.com/book/the-joy-of-javascript/discussion
+
+Mastering TypeScript: Build enterprise-ready, modular web applications using TypeScript 4 and modern frameworks
+Nathan Rozentals
+4th ed.
+https://github.com/PacktPublishing/Mastering-TypeScript-Fourth-Edition
+he'd hit the mark when Microsoft staff started to reference his blog posts in their CodePlex discussion forums.
+book
+
+Jun
+
+Mastering TypeScript: Build enterprise-ready, modular web applications using TypeScript 4 and modern frameworks
+Nathan Rozentals
+4th Edition
+he'd hit the mark when Microsoft staff started to reference his blog posts in their CodePlex discussion forums.
+other formats
+
+Effective TypeScript: 55 Specific Ways to Write Typed JavaScript That Scales
+Dan Vanderkam
+Sidewalk Labs
+Google
+
+Essential TypeScript 4: From Beginner to Pro
+Adam Freeman
+Apress
+2nd ed.
+chief technology officer and chief operating officer of a global bank
+book
+
+May
+
+Behavior-Driven Development with Cucumber: Better Collaboration for Better Software
+Richard Lawrence, Paul Rayner
+led the development of the first .NET version of Cucumber, Cuke4Nuke
+Addison-Wesley Professional
+other formats
+
+Mastering Microservices with Java: Build enterprise microservices with Spring Boot 2.0, Spring Cloud, and Angular
+Sourabh Sharma
+3rd Edition
+https://github.com/PacktPublishing/Mastering-Microservices-with-Java-Third-Edition
+JDK 11
+Maven
+Spring Cloud and Boot
+Angular
+other formats
+
+Learn With: Angular 11, Bootstrap, and Java: Enterprise Application Development with Angular 11 and Java
+Jeffry Houser
+https://github.com/Reboog711/JeffryHouserBlogSamplesSource
+other formats
+
+Apr
+
+Full Stack Serverless: Modern Application Development with React, AWS, and GraphQL
+Nader Dabit
+developer advocate at Amazon Web Services
+React, AWS, GraphQL, AWS Amplify
+
+Learning Angular: A no-nonsense beginner's guide to building web applications with Angular 10 and TypeScript
+Aristeidis Bampakos, Pablo Deeleman
+3rd Edition
+Angular documentation
+Plexscape
+Gameloft, Red Hat or Dynatrace
+Google Developer Expert
+OLD
+
+Angular for Enterprise-Ready Web Applications: Build and deliver production-grade and cloud-scale evergreen web apps with Angular 9 and beyond
+Doguhan Uluca
+2nd Edition
+Google Developers Expert
+Editorial Review by a Developer Relations Lead on the Angular team at Google
+presented at conferences Ng-Conf, Angular Mix, Angular Denver, CodeStock, deliver:Agile and Agile XP. 
+https://github.com/duluca/duluca.github.io
+ 
+Mar
+
+SQL Cookbook: Query Solutions and Techniques for All SQL Users 
+Anthony Molinaro, Robert de Graaf 
+Johnson & Johnson
+RightShip
+2nd Edition
+
+Full-Stack Web Development with Jakarta EE and Vue.js
+Your One-Stop Guide to Building Modern Full-Stack Applications with Jakarta EE and Vue.js
+Daniel Andres Pelaez Lopez
+Southwest Airlines, Disney, Hourly
+https://coderstower.com/
+Apress
+book
+
+Practical Bootstrap
+Learn to Develop Responsively with One of the Most Popular CSS Frameworks
+Panos Matsinopoulos
+Apress
+book
+
+Feb
+
+Jakarta EE Cookbook: Practical recipes for enterprise Java developers to deliver large scale applications with Jakarta EE
+2nd Edition
+Elder Moraes 
+board member at SouJava (Brazilian Java User Group), led the Java EE 8 - The Next Frontier initiative
+
+Beginning Jakarta EE Web Development: Using JSP, JSF, MySQL, and Apache Tomcat for Building Java Web Applications 
+Luciano Manelli, Giulio Zambon
+3rd ed
+Apress
+book
+Polytechnic of Bari
+
+Design and Build Great Web APIs: Robust, Reliable, and Resilient
+Mike Amundsen
+Pragmatic Bookshelf
+book
+
+Jan
+
+Learning SQL: Generate, Manipulate, and Retrieve Data
+Alan Beaulieu 
+3rd Edition
+
+Design and Build Great Web APIs: Robust, Reliable, and Resilient
+Mike Amundsen
+
+Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software
+Eric Freeman, Elisabeth Robson
+2nd Edition
+
+2020
+
+Dec
+
+Software Estimation Without Guessing: Effective Planning in an Imperfect World
+George Dinwiddie 
+
+Unit Testing Principles, Practices, and Patterns
+Vladimir Khorikov
+Microsoft MVP
+Enterprise Craftsmanship blog
+Manning
+book
+
+JUnit in Action 
+Cătălin Tudose
+Third Edition
+Manning
+book
+
+Nov
+
+Building Modern Web Applications With Jakarta EE, NoSQL Databases and Microservices: Create Web Applications Jakarta EE with Microservices, JNoSQL, Vaadin, and MicroProfile easily
+Aristides Villarreal Bravo, Geovanny Mendoza González, Otávio Gonçalves de Santana
+
+Apache NetBeans IDE and is working on his Jmoordb project, a Java API for NoSQL.
+both Expert Groups and Expert Leader in several JSRs and JCP executive committee. 
+
+
+
+Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith
+Sam Newman
+
+Refactoring at Scale: Regaining Control of Your Codebase
+Maude Lemaire
+software engineer at Slack
+
+Oct
+
+Pro CDI 2 in Java EE 8: An In-Depth Guide to Context and Dependency Injection
+Jan Beernink, Arjan Tijms
+Apress
+Google 
+Payara Services Ltd. JSF (JSR 372) and Security API (JSR 375) EG member
+
+OCP Oracle Certified Professional Java SE 11 Programmer II Study Guide: Exam 1Z0-816 and Exam 1Z0-817
+Jeanne Boyarsky, Scott Selikoff
+
+Jakarta EE Recipes: A Problem-Solution Approach
+Josh Juneau
+Apress
+Java Champion
+JCP Expert Group member for JSR 372 and JSR 378
+
+Sep
+
+Step-by-Step Angular Routing: Learn To Create client-side and Single Page Apps with Routing and Navigation
+Nishu Goel
+IBM
+the author of "Angular for Beginners" course on Udemy.
+https://github.com/NishuGoel/AngularRoutingBook
+
+Hands-On Microservices with Spring Boot and Spring Cloud: Build and deploy Java microservices using Spring Cloud, Istio, and Kubernetes
+Magnus Larsson
+Volvo, Ericsson, AstraZeneca
+Spring Boot 2.1, JDK 12, Docker and Kubernetes
+
+if you get a build error on springfox-swagger dependencies, add the dependencies in product-composite-service. Not sure this was not documented on errata page
+implementation('org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE')
+
+The test-em-all.bash script works on Git Bash for the first 12 chapters or so. I had some good luck with the Windows Subsystem for Linux - Ubuntu in the later chapters
+
+
+
+Spring 5.0 Projects: Build seven web development projects with Spring MVC, Angular 6, JHipster, WebFlux, and Spring Boot 2
+Nilang Patel
+- Spring application using Bootstrap, JQuery
+- Spring WebFlux framework and Reactor library
+- Elasticsearch for indexing, querying, aggregating data
+- monolithic application using JHipster
+- Spring Security and Spring Security LDAP and OAuth libraries for Authentication
+- a microservice-based application with Spring Cloud and Netflix
+- Spring, Kotlin
+https://github.com/PacktPublishing/Spring-5.0-Projects
+http://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL
+http://api.worldbank.org/v2/country/all/indicator/NY.GDP.MKTP.CD
+Version 1 was discontinued entirely on June 19, 2020
+
+Aug
+
+Java Cookbook: Problems and Solutions for Java Developers
+Ian F. Darwin
+4th Edition
+Java Champions
+
+Modern JavaScript for the Impatient
+Cay S. Horstmann
+Addison-Wesley Professional
+book
+
+The Pragmatic Programmer
+David Thomas, Andrew Hunt
+20th Anniversary Edition
+2 edition
+Addison-Wesley Professional
+book
+
+Jul
+
+Righting Software
+Juval Löwy
+Microsoft’s Regional Director for the Silicon Valley.
+Microsoft recognized Juval as a Software Legend as one of the world's top .NET experts and industry leaders. !
+Addison-Wesley Professional
+book
+iDesign trainings and clinics
+Juval's Architecture Master Class
+
+Clean Agile: Back to Basics
+Robert C Martin
+Prentice Hall
+book
+
+Pro Angular 9: Build Powerful and Dynamic Web Apps
+Adam Freeman
+4th ed.
+Apress
+book
+
+Jun
+
+Hacking with Spring Boot 2.3: Reactive Edition
+Greg L. Turnquist
+committer to Spring HATEOAS, Spring Data, Spring Boot, R2DBC, and Spring Session for MongoDB.
+
+Seriously Good Software: Code that works, survives, and wins
+Marco Faella
+Manning
+teaches advanced programming at a major Italian university
+book
+
+Real-World Software Development: A Project-Driven Guide to Fundamentals in Java
+Raoul-Gabriel Urma, Richard Warburton
+
+Mar
+
+Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale
+Jan Kunigk, Ian Buss, Paul Wilkinson, Lars George
+
+Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
+Tyler Akidau, Slava Chernyak, Reuven Lax
+O'Reilly Media
+Google
+
+Secure by Design
+Daniel Deogun, Dan Bergh Johnsson, Daniel Sawano
+Manning Publications
+book
+
+Machine Learning for Business: Using Amazon SageMaker and Jupyter
+Doug Hudgeon, Richard Nichol
+Manning Publications
+book
+
+MongoDB: The Definitive Guide: Powerful and Scalable Data Storage
+Shannon Bradshaw, Eoin Brazil, Kristina Chodorow
+3 edition
+VP of Education at MongoDB
+
+Feb
+
+Rapid Java Persistence and Microservices: Persistence Made Easy Using Java EE8, JPA and Spring
+Raj Malhotra
+Apress
+
+Introducing Maven: A Build Tool for Today's Java Developers
+Balaji Varanasi
+Apress
+2nd ed.
+
+Node.js, MongoDB, React, React Native Full-Stack Fundamentals and Beyond
+Eric Bush 
+Walmart 
+book
+http://jsdevstack.com
+limited resources including budget
+
+Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API
+Bill Bejeck
+Kafka Streams contributor and Confluent engineer
+Manning
+budget
+
+Hands-On Reactive Programming in Spring 5: Build cloud-ready, reactive systems with Spring 5 and Project Reactor
+Oleh Dokuka, Igor Lozynskyi
+Pivotal Champion, contributors to Project Reactor and Spring Framework
+
+Jan
+
+Spring Boot 2 Recipes: A Problem-Solution Approach
+Marten Deinum
+submitter 
+
+Practical Microservices Architectural Patterns: Event-Based Java Microservices with Spring Boot and Spring Cloud
+Binildas Christudas
+Sun Certified Programmer (SCJP), Developer (SCJD), Business Component Developer (SCBCD) and Enterprise Architect (SCEA), Microsoft Certified Professional (MCP) and Open Group (TOGAF8) Certified Enterprise Architecture Practitioner. He is also a Licensed Zapthink Architect (LZA) in SOA.
+book
+
+Pro Spring Boot 2: An Authoritative Guide to Building Microservices, Web and Enterprise Applications, and Best Practices
+Felipe Gutierrez
+2nd ed
+Senior Platform Architect at Pivotal, the creators of Spring Boot and Spring Framework
+book
+
+Learning Elastic Stack 7.0: Distributed search, analytics, and visualization using Elasticsearch, Logstash, Beats, and Kibana
+Pranav Shukla, Sharath Kumar M N
+2nd Edition
+Elasticsearch solutions architect at Oracle
+Elastic Certified Instructor
+
+Machine Learning with the Elastic Stack: Expert techniques to integrate machine learning with distributed search and analytics
+Rich Collier, Bahaaldine Azarmi 
+solutions architect at Elastic
+
+2019
+
+Dec
+
+More Effective Agile: A Roadmap for Software Leaders
+Steve McConnell
+other formats
+
+The Design of Web APIs
+Arnaud Lauret
+apihandyman.io
+http://apistylebook.com
+book
+
+Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, MicroProfile, Spring Boot, and the AXON Framework
+Vijay Nair
+Director of Engineering within Oracle’s Financial Services Global Business Unit.
+monolithic application using Jakarta EE
+MicroProfile platform
+same application on Spring Boot
+book
+
+OCP Oracle Certified Professional Java SE 11 Programmer I Study Guide: Exam 1Z0-815
+Jeanne Boyarsky, Scott Selikoff 
+
+OCP Oracle Certified Professional Java SE 11 Programmer I Exam Fundamentals 1Z0-815
+Hanumant Deshmukh
+book
+
+Nov
+
+Microservices in Action
+Morgan Bruce, Paulo A. Pereira
+architect
+book
+Manning
+
+Hyperledger Cookbook: Over 40 recipes implementing the latest Hyperledger blockchain frameworks and tools
+Xun (Brian) Wu, Chuanfeng Zhang, Andrew Zhang 
+
+Blockchain Development with Hyperledger: Build decentralized applications with Hyperledger Fabric and Composer Kindle Edition
+Salman A. Baset, Luc Desrosiers, Nitin Gaur, Petr Novotny, Anthony O'Dowd, Venkatraman Ramakrishna, Weimin Sun, Xun (Brian) Wu 
+IBM Blockchain Solutions
+
+Blockchain for Business with Hyperledger Fabric: A complete guide to enterprise Blockchain implementation using Hyperledger Fabric
+Nakul Shah
+
+OCP Oracle Certified Professional Java SE 11 Programmer I Exam Fundamentals 1Z0-815
+Hanumant Deshmukh
+other formats
+ 
+Oct
+
+Humor That Works: The Missing Skill for Success and Happiness at Work
+Andrew Tarvin
+book
+
+Docker in Practice
+Ian Miell, Aidan Hobson Sayers
+Manning Publications
+book
+2 edition
+
+Algorithms Illuminated (Part 3): Greedy Algorithms and Dynamic Programming
+Tim Roughgarden
+Professor of Computer Science at Columbia University
+book
+
+Algorithms Illuminated (Part 2): Graph Algorithms and Data Structures
+Tim Roughgarden
+book
+
+Java Unit Testing with JUnit 5: Test Driven Development with JUnit 5
+Shekhar Gulati, Rahul Sharma 
+Apress
+book
+
+Sep
+
+Hands-On Cloud-Native Microservices with Jakarta EE: Build scalable and reactive microservices with Docker, Kubernetes, and OpenShift
+Luigi Fugaro, Mauro Vocale
+Red Hat architect
+
+Algorithms Illuminated (Part 3): Greedy Algorithms and Dynamic Programming
+Tim Roughgarden
+Professor of Computer Science at Columbia University
+other formats
+
+Algorithms Illuminated (Part 2): Graph Algorithms and Data Structures
+Tim Roughgarden
+other formats
+
+Build APIs You Won't Hate: Everyone and their dog wants an API, so you should probably learn how to build one
+Phil Sturgeon
+other formats
+
+Designing Web APIs: Building APIs That Developers Love
+Brenda Jin, Saurabh Sahni, Amir Shevat
+Yahoo, Slack
+
+Aug
+
+Hands-On RESTful Web Services with TypeScript 3: Design and develop scalable and RESTful APIs with TypeScript and Node.js
+Biharck Araújo
+
+HTTP/2 in Action
+Barry Pollard
+Manning Publications - book
+?
+
+MySQL and JSON: A Practical Programming Guide
+David Stokes 
+MySQL AB, Oracle, and SUN
+
+Practical SQL: A Beginner’s Guide to Storytelling with Data
+Anthony DeBarros
+
+Reactive Streams in Java: Concurrency with RxJava, Reactor, and Akka Streams
+Adam L. Davis
+Apress - book
+Java 9 and 11
+
+Jul
+
+Mastering JavaScript: A Complete Programming Guide Including jQuery, AJAX, Web Design, Scripting and Mobile Application Development
+Michael B. White
+other formats
+
+Java EE 8 Design Patterns and Best Practices: A guide to create efficient, scalable enterprise-ready software with best choice of architectural design patterns
+Rhuan Rocha, Joao Purificacao, Paulo Simoes
+packtpub code Download
+
+Learn Java the Easy Way: A Hands-On Introduction to Programming
+Bryson Payne
+
+Bootstrap 4 Cookbook: Solutions to common problems faced in Responsive Web Design
+Ajdin Imsirovic
+not so much Bootstrap 4 but setting up and using other tools (Node, NPM, Bower, Ruby, Jekyll, Harp) to install, work with and update Bootstrap
+
+CSS: The Definitive Guide: Visual Presentation for the Web
+Eric A. Meyer, Estelle Weyl 
+another format : book
+
+Jun
+
+Java 11 Cookbook
+Nick Samoylov, Mohamed Sanaulla
+2 edition
+
+Web Design Playground: HTML & CSS the Interactive Way
+Paul McFedries
+book
+
+Can't Make This Stuff Up!: Finding the Upside to Life's Downs
+Susannah B. Lewis 
+
+Understanding the British: A hilarious guide from Apologising to Wimbledon
+Adam Fletcher, Robert M. Schöne 
+other formats 
+
+Humor That Works: The Missing Skill for Success and Happiness at Work
+Andrew Tarvin
+other formats
+
+May
+
+Java 11 and 12 – New Features: Learn about Project Amber and the latest developments in the Java language and platform
+Mala Gupta 
+Java champion
+
+Spark The Definitive Guide: Big Data Processing Made Simple
+Bill Chambers, Matei Zaharia
+
+HTML5 for Masterminds : How to take advantage of HTML5 to create responsive websites and revolutionary applications
+J.D Gauchat
+3rd edition
+
+Murach's HTML5 and CSS3
+Anne Boehm, Zak Ruvalcaba
+4th edition
+book
+
+Core Java, Volume II - Advanced Features
+Cay S. Horstmann
+Prentice Hall
+11th edition
+book
+
+Apr
+
+Java EE 8 Microservices: Learn how the various components of Java EE 8 can be used to implement the microservice architecture
+Kamalmeet Singh, Mert Çaliskan, Pavel Pscheidl, Ondrej Mihályi
+Java Champion
+committer to opensource projects in the Java EE ecosystem like Payara Server and Eclipse MicroProfile.
+
+Microservices for the Enterprise: Designing, Developing, and Deploying
+Kasun Indrasiri, Prabath Siriwardena
+elected member of the Apache Software Foundation, a Project Management Committee member, and a committer for the Apache Synapse open source ESB project
+book
+
+Microservices and Containers
+Parminder Singh Kocher
+Cisco
+Addison-Wesley Professional
+book
+
+Defending Your Marriage: The Reality of Spiritual Battle
+Tim Muehlhoff
+
+A Concise Guide to Reading the New Testament: A Canonical Introduction
+David R. Neinhuis
+Baker Academic
+Interlibrary Loan
+ 
+Mar
+
+Mere Discipleship: Growing in Wisdom and Hope
+Alister McGrath
+
+Pro Spring 5: An In-Depth Guide to the Spring Framework and Its Tools
+Iuliana Cosmina, Rob Harrop, Chris Schaefer, Clarence Ho
+Apress
+5th edition
+book
+
+Java in a Nutshell: A Desktop Quick Reference
+Ben Evans, David Flanagan
+
+Core Java, Volume II - Advanced Features
+Cay S. Horstmann
+Prentice Hall
+11th edition
+other formats 
+ 
+Java XML and JSON: Document Processing for Java SE
+Jeff Friesen
+book
+JavaJeff.ca
+
+Feb
+
+Java: The Complete Reference
+Herbert Schildt
+Java SE 11
+11 edition
+does not conform to our Material Selection Policy
+this title is available in another format in our catalogue.
+ 
+Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement
+Luc Perkins, Eric Redmond, Jim Wilson
+2 edition
+
+Java Projects: Learn the fundamentals of Java 11 programming by building industry grade practical projects
+Peter Verhas
+2nd edition
+
+Refactoring: Improving the Design of Existing Code
+2nd edition
+Martin Fowler
+book
+
+RESTful Java Web Services: A pragmatic guide to designing and building RESTful APIs using Java
+3rd edition
+Bogunuva Mohanram Balachandar
+
+Jan
+
+Learning Spring Boot 2.0 - Simplify the development of lightning fast applications based on microservices and reactive programming
+2nd edition
+Greg L. Turnquist
+SpringSource division of VMware, which was spun off into Pivotal
+
+Spring in Action
+Craig Walls
+5th edition
+Manning Publications
+book
+
+Enterprise Java Microservices
+Ken Finnigan
+Manning Publications
+book
+
+Testing Java Microservices: Using Arquillian, Hoverfly, AssertJ, JUnit, Selenium, and Mockito
+Alex Soto Bueno, Andy Gumbrecht, Jason Porter 
+Manning Publications
+book
+
+Modern Java in Action: Lambda, streams, functional and reactive programming
+2nd edition
+Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft 
+Manning Publications
+book
+
+2018
+Dec
+
+Enterprise Java Microservices
+Ken Finnigan
+Manning Publications
+other formats
+
+Complete Bootstrap: Responsive Web Development with Bootstrap 4
+Matt Lambert, Bass Jobsen, David Cochran, Ian Whitley
+
+Spring in Action
+Craig Walls
+5th edition
+Manning Publications
+other formats
+
+Testing Java Microservices: Using Arquillian, Hoverfly, AssertJ, JUnit, Selenium, and Mockito
+Alex Soto Bueno, Andy Gumbrecht, Jason Porter 
+Manning Publications
+other formats
+
+Modern Java in Action: Lambda, streams, functional and reactive programming
+2nd edition
+Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft 
+Manning Publications
+other formats
+
+Nov
+
+Mastering Java 9: Write reactive, modular, concurrent, and secure code
+Dr. Edward Lavieri, Peter Verhas 
+
+Learning Regular Expressions
+Ben Forta
+Addison-Wesley Professional
+book
+?
+
+Java EE Web Application Primer: Building Bullhorn: A Messaging App with JSP, Servlets, JavaScript, Bootstrap and Oracle
+Dave Wolf, A.J. Henley
+https://github.com/apress/java-ee-web-app-primer
+Apress
+book
+
+Java EE 8 and Angular: A practical guide to building modern single-page applications with Angular and Java EE
+Prashant Padmanabhan
+use Payara Server
+
+As Kingfishers Catch Fire: A Conversation on the Ways of God Formed by the Words of God
+Eugene H. Peterson
+
+Oct
+
+Learn Microservices with Spring Boot: A Practical Approach to RESTful Services using RabbitMQ, Eureka, Ribbon, Zuul and Cucumber
+Moises Macero
+https://github.com/Apress/learn-microservices-w-spring-boot
+other formats
+
+Inside Java SE 9
+Monica Beckwith
+JavaOne Rockstar 
+Book
+
+Java EE Web Application Primer: Building Bullhorn: A Messaging App with JSP, Servlets, JavaScript, Bootstrap and Oracle
+Dave Wolf, A.J. Henley
+https://github.com/apress/java-ee-web-app-primer
+other formats
+
+Building RESTful Web Services with Java EE 8: Create modern RESTful web services with the Java EE 8 API
+Mario-Leander Reimer
+https://github.com/PacktPublishing/Building-RESTful-Web-Services-with-Java-EE-8
+Maven 3.5.x, Payara Server 5.x, 
+Docker for Windows (Requires Microsoft Windows 10 Professional or Enterprise 64-bit)
+IntelliJ IDEA 2017.3, Postman or SoapUI
+
+Software Design X-Rays: Fix Technical Debt with Behavioral Code Analysis
+Adam Tornhill 
+
+Sep
+
+Release It!: Design and Deploy Production-Ready Software
+Michael T. Nygard
+
+Rediscovering JavaScript: Master ES6, ES7, and ES8
+Venkat Subramaniam 
+
+Learning RxJava: Reactive, Concurrent, and responsive applications
+Thomas Nield 
+maintainer for RxJavaFX and RxKotlin
+
+Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation
+Brent Laster
+
+Core Java Volume I - Fundamentals
+Cay S. Horstmann
+11 edition
+Book
+
+Aug
+
+Beginning EJB in Java EE 8: Building Applications with Enterprise JavaBeans
+Jonathan Wetherbee, Massimo Nardone, Chirag Rathod, Raghu Kodali 
+Book
+
+Java Unit Testing with JUnit 5: Test Driven Development with JUnit 5
+Shekhar Gulati, Rahul Sharma
+other formats
+
+Mastering Software Testing with JUnit 5: Comprehensive guide to develop high quality Java applications
+Boni Garcia
+
+Functional-Light JavaScript: Balanced, Pragmatic FP in JavaScript
+Kyle Simpson
+Book
+does not conform
+
+Java EE 8 Recipes: A Problem-Solution Approach
+2nd ed.
+Josh Juneau 
+Apache NetBeans committer 
+Java Champion
+Book
+
+Jul
+
+Java by Comparison : Become a Java Craftsman in 70 Examples
+Simon Harrer, Jörg Lenhard, Linus Dietz
+book
+
+Pro JPA 2 in Java EE 8: An In-Depth Guide to Java Persistence APIs
+Mike Keith, Merrick Schincariol, Massimo Nardone
+3 edition
+book
+
+Optimizing Java: Practical Techniques for Improving JVM Application Performance
+Benjamin J Evans, James Gough, Chris Newland 
+
+Functional-Light JavaScript: Balanced, Pragmatic FP in JavaScript
+Kyle Simpson 
+other formats
+
+Java EE 8 Cookbook: Build reliable applications with the most robust and mature technology for enterprise development
+Elder Moraes 
+
+Jun
+
+Pro JPA 2 in Java EE 8: An In-Depth Guide to Java Persistence APIs
+Mike Keith, Merrick Schincariol, Massimo Nardone
+3 edition
+other formats
+
+OCP Java SE 8 Programmer II Exam Guide (Exam 1Z0-809)
+Kathy Sierra, Bert Bates, Elisabeth Robson
+McGraw-Hill Education
+7 edition
+not conform to our Material Selection Policy
+ 
+A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills
+Jay Wengrow 
+
+Java EE 8 High Performance: Master techniques such as memory optimization, caching, concurrency, and multithreading to achieve maximum performance from your enterprise applications
+Romain Manni-Bucau
+
+Java by Comparison : Become a Java Craftsman in 70 Examples
+Simon Harrer, Jörg Lenhard, Linus Dietz
+other formats
+
+May
+
+Java EE 8: Only What's New - Level up quickly on the latest features of Java EE 8 including Security, JSON-B/P, CDI, JAX-RS, Servlet and more
+Alex Theedom
+Kindle only
+other formats
+
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+Martin Kleppmann
+
+GraphQL API Design
+(API-University Series Book 5)
+Matthias Biehl 
+other formats
+cheatsheet
+
+Learn Amazon Web Services in a Month of Lunches
+David Clinton
+
+Pro RESTful APIs: Design, Build and Integrate with REST, JSON, XML and JAX-RS
+Sanjay Patni
+https://github.com/Apress/pro-restful-apis
+book
+
+Apr
+
+Architecting Modern Java EE Applications: Designing lightweight, business-oriented enterprise applications in the age of cloud, containers, and Java EE 8
+Sebastian Daschner
+Java Champion
+Oracle Developer Champion
+
+Pro RESTful APIs: Design, Build and Integrate with REST, JSON, XML and JAX-RS
+Sanjay Patni
+https://github.com/Apress/pro-restful-apis
+other formats
+
+Spring Microservices in Action
+John Carnell
+Manning
+book
+
+Learn Microservices with Spring Boot: A Practical Approach to RESTful Services using RabbitMQ, Eureka, Ribbon, Zuul and Cucumber
+Moises Macero
+Apress
+book
+
+Understanding ECMAScript 6: The Definitive Guide for JavaScript Developer
+Nicholas C. Zakas 
+
+Mar
+
+Spring Microservices in Action
+John Carnell
+other formats
+
+Learn Microservices with Spring Boot: A Practical Approach to RESTful Services using RabbitMQ, Eureka, Ribbon, Zuul and Cucumber
+Moises Macero
+other formats
+
+RESTFul Web Service Development with Jersey 2.x
+Han Sun
+Kindle only
+other formats
+
+Git Essentials : Create, merge, and distribute code with Git, the most powerful and flexible versioning system available
+Ferdinando Santacroce
+Second edition
+
+Effective Java
+Joshua Bloch
+Addison-Wesley Professional
+Book
+3rd edition
+
+Feb
+OCA / OCP Java SE 8 Programmer Practice Tests
+Scott Selikoff, Jeanne Boyarsky
+
+OCA Java SE 8 Programmer I Exam Guide (Exams 1Z0-808)
+Kathy Sierra, Bert Bates
+
+Get to the Point!: Sharpen Your Message and Make Your Words Matter
+Joel Schwartzberg
+
+Java EE 8 Application Development
+David Heffelfinger 
+
+Effective Java
+Joshua Bloch
+3rd edition
+other formats
+
+Jan
+
+Design It! From Programmer to Software Architect
+Michael Keeling
+Book
+
+The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job
+John Sonmez
+Book
+
+RESTful Java Web Services : A pragmatic guide to designing and building RESTful APIs using Java
+Bogunuva Mohanram Balachandar
+3rd edition
+Book
+
+Java 9 Modularity Revealed: Project Jigsaw and Scalable Java
+Alexandru Jecan
+Book
+
+Philosophical Foundations for a Christian Worldview
+02 edition
+J. P. Moreland, William Lane Craig
+
+2017
+Dec
+
+Mastering Java Machine Learning: A Java developer's guide to implementing machine learning and big data architectures
+Dr. Uday Kamath, Krishna Choppella
+Book
+
+The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job
+John Sonmez
+other formats
+
+RESTful Java Web Services : A pragmatic guide to designing and building RESTful APIs using Java
+Bogunuva Mohanram Balachandar
+3rd edition
+other formats
+
+Java 9 Modularity Revealed: Project Jigsaw and Scalable Java
+Alexandru Jecan
+other formats
+
+Algorithms Illuminated: Part 1: The Basics
+Paperback
+Tim Roughgarden 
+AlgorithmsIlluminated.org
+Algorithms_Illuminated-Part 1-The Basics
+http://theory.stanford.edu/~tim/algorithmsilluminated.html
+
+self paced course
+https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about
+
+Nov
+
+Mastering Java Machine Learning: A Java developer's guide to implementing machine learning and big data architectures
+Dr. Uday Kamath, Krishna Choppella
+Packt Publishing
+other formats
+
+Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+Aurélien Géron
+
+Java 9 Regular Expressions
+Anubhava Srivastava
+
+Java: The Complete Reference 
+Herbert Schildt
+Tenth edition
+available in another format 
+
+Core Java SE 9 for the Impatient
+Cay S. Horstmann
+2nd edition
+Addison-Wesley Professional
+Book
+
+Oct
+
+Java 9 Programming By Example
+Peter Verhas
+Packt 
+
+Java 9 Recipes: A Problem-Solution Approach
+Josh Juneau
+3rd edition
+Book Only
+
+Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications
+Sander Mak, Paul Bakker
+
+Java 9 for Programmers
+Paul J. Deitel, Harvey Deitel
+Prentice Hall
+4th edition
+Book
+
+Core Java SE 9 for the Impatient
+Cay S. Horstmann
+2nd edition
+other formats
+
+Sep
+
+Java 9 Data Structures and Algorithms
+Debasish Ray Chawdhuri
+
+Java 9 for Programmers (4th edition)
+Paul J. Deitel, Harvey Deitel
+Prentice Hall
+other formats
+
+Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9
+Ken Kousen
+
+The Speaker's Toolbox: 47 Tools to Build Better Speeches
+Paperback
+2016
+Brian Woolf
+Toastmaster
+DTM
+?
+
+Connect Using Humor and Story: How I Got 18 Laughs 3 Applauses in a 7 Minute Persuasive Speech
+Kindle edition
+Ramakrishna Reddy
+other formats!
+
+Aug
+
+Programming Pearls
+2nd edition
+Jon Bentley
+Addison-Wesley Professional
+Hardcopy
+publication date is old
+
+Effective Debugging: 66 Specific Ways to Debug Software and Systems (Effective Software Development Series)
+Diomidis Spinellis
+Addison-Wesley Professional
+
+Effective SQL: 61 Specific Ways to Write Better SQL (Effective Software Development Series)
+John L. Viescas, Douglas J. Steele
+
+How to Use Objects: Code and Concepts
+Holger Gast
+no longer available
+
+Real-World Algorithms: A Beginner's Guide (MIT Press)
+Panos Louridas
+
+Jul
+Getting started with Spring Framework
+J Sharma, Ashish Sarin
+
+The Way of the Web Tester: A Beginner's Guide to Automating Tests
+Jonathan Rasmusson
+Hardcopy
+
+Hibernate Tips: More than 70 solutions to common Hibernate problems
+Thorben Janssen
+
+Reactive Java Programming
+Andrea Maglie
+
+Programming Pearls
+2nd edition
+Jon Bentley
+
+Jun
+
+Amazon Web Services in Action
+Andreas Wittig, Michael Wittig
+
+Pro RESTful APIs: Design, Build and Integrate with REST, JSON, XML and JAX-RS
+Sanjay Patni
+
+Irresistible APIs: Designing web APIs that developers will love
+Kirsten Hunter 
+
+Spring Microservices
+Rajesh RV
+
+Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques
+Luis Atencio
+
+May
+
+The Way of the Web Tester: A Beginner's Guide to Automating Tests
+Jonathan Rasmusson
+
+OCA Java SE 8 Programmer I Certification Guide
+Mala Gupta
+
+Functional Programming in Java
+Pierre-Yves Saumont
+
+Hibernate Tips: More than 70 solutions to common Hibernate problems
+Thorben Janssen 
+
+Diary Of A Jackwagon
+Tim Hawkins , John Driver
+
+Apr
+Pro Angular
+Adam Freeman
+2nd ed.
+
+Beginning Hibernate: For Hibernate 5
+Joseph B. Ottinger, Jeff Linwood, Dave Minter
+4 edition
+
+Angular 2 Cookbook
+Matt Frisbie
+Second edition
+
+Reactive Java Programming
+Andrea Maglie
+
+OAuth 2 in Action
+Justin Richer, Antonio Sanso
+
+Mar
+RESTful Web Clients: Enabling Reuse Through Hypermedia
+Mike Amundsen
+
+Professional Git
+Brent Laster
+
+Learning Continuous Integration with Jenkins
+Nikhil Pathania
+
+Mastering Jenkins
+Jonathan McAllister 
+
+Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809: A Comprehensive OCPJP 8 Certification Guide
+2nd edition
+Hari SG Ganesh, Kiran Kumar, Tushar Sharma
+
+Feb
+
+Taking Pascal’s Wager: Faith, Evidence and the Abundant Life
+Michael Rota
+
+RESTful API Design (API-University Series)
+Matthias Biehl
+
+CCENT/CCNA ICND1 100-105 Official Cert Guide
+Wendell Odom
+
+CCNA Routing and Switching ICND2 200-125 Official Cert Guide Library
+Wendell Odom
+
+Spring Boot in Action
+Craig Walls
+
+Jan
+
+Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications
+Tomasz Nurkiewicz, Ben Christensen
+
+Pro Spring Boot
+Felipe Gutierrez
+
+RESTful API Design (API-University Series) (Volume 3) 
+Matthias Biehl
+
+CCENT/CCNA ICND1 100-105 Official Cert Guide
+Wendell Odom
+
+CCNA Routing and Switching ICND2 200-125 Official Cert Guide Library
+Wendell Odom
+
+2016
+Dec
+Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON
+Lindsay Bassett
+
+Building a RESTful Web Service with Spring
+Ludovic Dewailly
+
+Secrets of the JavaScript Ninja
+John Resig, Bear Bibeault, Josip Maras
+
+Pro Spring Boot
+Felipe Gutierrez
+
+Maven Essentials
+Prabath Siriwardena
+
+Nov
+The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices
+Viktor Farcic
+
+Java Performance Companion
+Charlie Hunt, Monica Beckwith, Poonam Parhar, Bengt Rutisson
+book
+
+Next Generation Databases: NoSQL, NewSQL, and Big Data
+Guy Harrison
+book
+
+Bootstrap in 24 Hours, Sams Teach Yourself
+Jennifer Kyrnin
+
+SQL: The Ultimate Beginners Guide: Learn SQL Today
+Steve Tale 
+
+Oct
+Java Performance Companion
+Charlie Hunt, Monica Beckwith, Poonam Parhar, Bengt Rutisson
+
+React: Up & Running: Building Web Applications
+Stoyan Stefanov
+
+Identity and Data Security for Web Development: Best Practices
+Jonathan LeBlanc, Tim Messerschmidt 
+
+jQuery in Action
+3rd edition
+Bear Bibeault, Yehuda Katz, Aurelio De Rosa
+
+Android High Performance Programming
+Enrique Lopez Manas, Diego Grancini
+
+---
+
+2016
+Java Deep Learning Essentials
+Yusuke Sugomori
+
+Struts 2.3 Scratch Project & Patterns
+Rajeev Vashisht
+ebook only
+
+---
+
+Learning Reactive Programming With Java 8
+Nickolay Tsvetinov
+
+---
+
+Hands-On Full-Stack Web Development with GraphQL and React: Build scalable full-stack applications while learning to solve complex problems with GraphQL
+Sebastian Grebe
+Jan 31, 2019
+
+Visual Design of GraphQL Data: A Practical Introduction with Legacy Data and Neo4j
+Thomas Frisendal 
+2018
+
+Learning GraphQL: Declarative Data Fetching for Modern Web Apps
+Eve Porcello and Alex Banks
+2018
+
+2014
+Eloquent JavaScript: A Modern Introduction to Programming
+Marijn Haverbeke
+
+OCM Java EE 6 Enterprise Architect Exam Guide (Exams 1Z0-807,1Z0-865,1Z0-866) 
+P Allen & J Bambara
+
+---
+
+library already owns these titles:
+Learning Elastic Stack 7.0: Distributed search, analytics, and visualization using Elasticsearch, Logstash, Beats, and Kibana
+2nd Edition
+Pranav Shukla, Sharath Kumar M N 
+
+Making Sense of God: An Invitation to the Skeptical
+Timothy Keller
+
+Building Microservices
+Sam Newman 
+an enumeration of good architectural practices with little value for the hands-on professional. (Little value not because they should be ignored, but because hands-on professional already masters them!) 
+
+Fool's Talk
+Os Guinness
+2016 Christianity Today Book of the Year in Apologetics/Evangelism
+One of Desiring God's Top 15 Books of 2015
+
+RESTful Java Web Services
+Purushothaman Jobinesh
+
+Mastering Git
+Jakub Narebski
+
+OCA Java SE 8 Programmer I Certification Guide
+Mala Gupta
+
+Next Generation Databases: NoSQL and Big Data
+Guy Harrison
+
+RESTful Web API Design with Node.JS
+Second edition 
+Valentin Bojinov
+
+Professional Git
+Brent Laster
+Wrox
+
+Learn Microservices with Spring Boot: A Practical Approach to RESTful Services using RabbitMQ, Eureka, Ribbon, Zuul and Cucumber
+Moises Macero
+Apress
+
+Building RESTful Web Services with Java EE 8: Create modern RESTful web services with the Java EE 8 API
+Mario-Leander Reimer
+
+Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
+Nicole Forsgren, Jez Humble, Gene Kim 
+
+Born a Crime: Stories from a South African Childhood
+Trevor Noah
+
+The Java Module System
+Nicolai Parlog
+
+Mastering Software Testing with JUnit 5: Comprehensive guide to develop high quality Java applications
+Boni Garcia
+
+More Effective Agile: A Roadmap for Software Leaders
+Steve McConnell
+
+Introducing Maven: A Build Tool for Today's Java Developers
+2nd Edition
+Balaji Varanasi
+
+Software Engineering at Google: Lessons Learned from Programming Over Time
+Titus Winters, Tom Manshreck, Hyrum Wright
+chair of the global subcommittee for the design of the C++ standard library
+member of the Apache Software and an occasional visiting faculty member at Carnegie Mellon University
+
+
+
+The Art of Agile Development - James Shore
+Second edition (in development)
+https://www.jamesshore.com/v2/books/aoad2
+Open Development
+The new edition is being developed in the open, here on this website. As new material is finished, we post it on this page for feedback and comments. We revise the material based on that feedback, then move it to the Early Release book, which is available on 
+O’Reilly’s learning platform.
+
+Java: The Complete Reference
+Herbert Schildt
+Twelfth Edition
+
+!!!
+
+Bootstrap 4 Quick Start: Responsive Web Design and Development Basics for Beginners
+Jacob Lett
+Poor
+https://bootstrapcreative.com
+
+Basics of Web Design: HTML5 & CSS
+5th edition
+Terry Felke-Morris
+Poor
+
+
+The Debugging Book
+Tools and Techniques for Automated Software Debugging
+Andreas Zeller
+https://www.debuggingbook.org/
+interactive format
+PDF and print versions is low on our priority list
+Python
+Unix
+
+==
+
+Programming TypeScript
+Boris Cherny
+2019
+
+TypeScript Deep Dive
+Basarat Ali Sayed
+2017
+Microsoft MVP
+https://basarat.com/
+
+
+Spring in Action
+Craig Walls
+6th Edition

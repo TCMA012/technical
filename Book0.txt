@@ -1,0 +1,33 @@
+1. https://books.ninja-squad.com/angular#buy
+Become a Ninja with Angular
+Cédric Exbrayat
+Angular and Vue contributor
+Pro Pack (ebook & exercises)
+https://angular.io/about?group=Collaborators
+
+
+
+2. https://www.smashingmagazine.com/printed-books/typescript-in-50-lessons/
+TypeScript in 50 Lessons
+Stefan Baumgartner
+Smashing Magazine
+Microsoft MVP
+https://typescript-book.com/
+https://fettblog.eu/
+https://github.com/ddprrt/
+
+
+
+3. https://leanpub.com/composingsoftware
+Composing Software : An Exploration of Functional Programming and Object Composition in JavaScript
+Eric Elliott 
+
+
+
+4. https://e5d092.myshopify.com/checkouts/co/bf5be5e3eeb151cfacea2661fbd34131/information
+Skeptic’s Guide to Functional Programming with JavaScript
+James Sinclair
+
+
+
+All ebooks are in PDF format.
