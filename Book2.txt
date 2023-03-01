@@ -545,10 +545,6 @@ March 19, 2023
 https://github.com/Apress/Practical-Highcharts-with-Angular-2nd-edition-By-Sourabh-Mishra
 https://github.com/Apress/practical-highcharts-with-angular
 
-2023
-
-March
-
 
 Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development 
 Prem Ponuthorai, Jon Loeliger
@@ -557,8 +553,20 @@ GitHub's offerings for the Expert Services Delivery organization
 contributes to Open Source projects such as Linux, U-Boot, and Git
 
 
+2023
 
-Building Offline Applications with Angular: Develop Reliable, Performant Web Applications for Desktop and Mobile Platforms 1st ed. Edition
+March
+
+https://angularforms.dev/#buy-now
+Angular Form Essentials
+Cory Rylan
+Google Developer Expert in Angular and Web Technologies
+Includes 20 independent code examples included alongside the book. All examples are updated with Angular 15.
+EBook with over 120+ pages of content.
+https://angular.io/about?group=GDE
+
+
+Building Offline Applications with Angular: Develop Reliable, Performant Web Applications for Desktop and Mobile Platforms
 Venkata Keerti Kotaru
 IndexedDB as an offline data store within a browser
 An imaginary online gaming arcade
@@ -567,10 +575,11 @@ Microsoft MVP
 Apress
 https://github.com/Apress/Building-Offline-Applications-with-Angular
 
-Learning Angular, Fourth Edition
-packtpub.com
-Packt
+Learning Angular
 Aristeidis Bampakos, Pablo Deelema
+Fourth Edition
+packtpub.com
+
 bampakoa
 https://www.packtpub.com/product/learning-angular-fourth-edition/9781803240602
 https://github.com/PacktPublishing/Learning-Angular-Fourth-Edition
