@@ -1,0 +1,42 @@
+GitHub Codespaces
+https://github.com/codespaces
+https://github.com/features/codespaces
+Start coding instantly
+with Codespaces
+Spin up fully configured dev environments in the cloud that start in seconds with up to 60 hours a month free
+2 cores
+60 hours free /month
+Storage
+15 GB free /month
+
+
+
+
+nvm install 18.10
+npm install
+npm install -g @angular/cli
+
+ng serve
+
+
+
+Please update your Node.js version
+update Node.js 
+
+
+You can right-click the file in your Codespace to download it to your local machine. 
+You can drag files to your Codespace from the File Explorer.
+
+
+
+Navigate to the "Your Codespaces" page at 
+https://github.com/codespaces
+
+To the right of the codespace you want to stop, click the ellipsis (...).
+
+Click Stop codespace.
+
+
+
+unzip toh-pt6.zip
+
